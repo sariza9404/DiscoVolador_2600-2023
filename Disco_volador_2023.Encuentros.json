@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "6640f9f6cde916528859ba7c"
+  },
+  "partido": "Ciclon vs Lynx",
+  "fecha": "8/12/2023",
+  "hora": "10:00",
+  "cancha": "4",
+  "resultado": "9 - 4"
+},
+{
+  "_id": {
+    "$oid": "6640fa25cde916528859ba7d"
+  },
+  "fecha": "8/12/2023",
+  "hora": "10:00",
+  "cancha": "5",
+  "partido": "Vulcanous vs Aloha Koa",
+  "resultado": "12 - 3"
+},
+{
+  "_id": {
+    "$oid": "6640fa4bcde916528859ba7e"
+  },
+  "fecha": "8/12/2023",
+  "hora": "10:00",
+  "cancha": "6",
+  "partido": "Rain vs Raza",
+  "resultado": "8 - 12"
+},
+{
+  "_id": {
+    "$oid": "6640faa7cde916528859ba7f"
+  },
+  "fecha": "8/12/2023",
+  "hora": "11:30",
+  "cancha": "5",
+  "partido": "Urutau Mix vs Revelion",
+  "resultado": "11 - 7"
+},
+{
+  "_id": {
+    "$oid": "6640fbadcde916528859ba80"
+  },
+  "fecha": "8/12/2023",
+  "hora": "11:30",
+  "cancha": "6",
+  "partido": "Black Hawk vs Inside",
+  "resultado": "7 - 5"
+},
+{
+  "_id": {
+    "$oid": "6640fc07cde916528859ba81"
+  },
+  "fecha": "8/12/2023",
+  "hora": "11:30",
+  "cancha": "4",
+  "partido": "Black Phoenix vs Fire",
+  "resultado": "3 - 13"
+},
+{
+  "_id": {
+    "$oid": "6640fc40cde916528859ba82"
+  },
+  "fecha": "8/12/2023",
+  "hora": "14:00",
+  "cancha": "4",
+  "partido": "Ciclon vs Fire",
+  "resultado": "10 - 11"
+},
+{
+  "_id": {
+    "$oid": "6640fc69cde916528859ba83"
+  },
+  "fecha": "8/12/2023",
+  "hora": "14:00",
+  "cancha": "5",
+  "partido": "Vulcanous vs Revelion",
+  "resultado": "7 - 15"
+},
+{
+  "_id": {
+    "$oid": "6640fc97cde916528859ba84"
+  },
+  "fecha": "8/12/2023",
+  "hora": "14:00",
+  "cancha": "6",
+  "partido": "Rain vs Inside",
+  "resultado": "11 - 3"
+},
+{
+  "_id": {
+    "$oid": "6640fcc4cde916528859ba85"
+  },
+  "fecha": "8/12/2023",
+  "hora": "15:30",
+  "cancha": "4",
+  "partido": "Lynx vs Black Phoenix",
+  "resultado": "7 - 10"
+},
+{
+  "_id": {
+    "$oid": "6640fcfacde916528859ba86"
+  },
+  "fecha": "8/12/2023",
+  "hora": "15:30",
+  "cancha": "5",
+  "partido": "Aloha Koa vs Urutau Mix",
+  "resultado": "6 - 13"
+},
+{
+  "_id": {
+    "$oid": "6640fd4ccde916528859ba87"
+  },
+  "fecha": "8/12/2023",
+  "hora": "15:30",
+  "cancha": "6",
+  "partido": "Raza vs Black Hawk",
+  "resultado": "12 - 10"
+},
+{
+  "_id": {
+    "$oid": "6640fd80cde916528859ba88"
+  },
+  "fecha": "9/12/2023",
+  "hora": "8:30",
+  "cancha": "4",
+  "partido": "Ciclon vs Black Phoenix",
+  "resultado": "14 - 9"
+},
+{
+  "_id": {
+    "$oid": "6640fdaecde916528859ba89"
+  },
+  "fecha": "9/12/2023",
+  "hora": "8:30",
+  "cancha": "5",
+  "partido": "Vulcanous vs Urutau Mix",
+  "resultado": "12 - 11"
+},
+{
+  "_id": {
+    "$oid": "6640fde2cde916528859ba8a"
+  },
+  "fecha": "9/12/2023",
+  "hora": "8:30",
+  "cancha": "6",
+  "partido": "Rain vs Black Hawk",
+  "resultado": "15 - 7"
+},
+{
+  "_id": {
+    "$oid": "6640fe46cde916528859ba8b"
+  },
+  "fecha": "9/12/2023",
+  "hora": "10:00",
+  "cancha": "4",
+  "partido": "Fire vs Lynx",
+  "resultado": "15 - 3"
+},
+{
+  "_id": {
+    "$oid": "6640fe81cde916528859ba8c"
+  },
+  "fecha": "9/12/2023",
+  "hora": "10:00",
+  "cancha": "5",
+  "partido": "Revelion vs Aloha Koa",
+  "resultado": "14 - 2"
+},
+{
+  "_id": {
+    "$oid": "6640ff13cde916528859ba8d"
+  },
+  "fecha": "9/12/2023",
+  "hora": "10:00",
+  "cancha": "6",
+  "partido": "Inside vs Raza",
+  "resultado": "11 - 13"
+},
+{
+  "_id": {
+    "$oid": "6640ff4acde916528859ba8e"
+  },
+  "fecha": "9/12/2023",
+  "hora": "12:45",
+  "cancha": "4",
+  "partido": "Black Phoenix vs Aloha Koa",
+  "resultado": "8 - 12"
+},
+{
+  "_id": {
+    "$oid": "6640ff7bcde916528859ba8f"
+  },
+  "fecha": "9/12/2023",
+  "hora": "12:45",
+  "cancha": "5",
+  "partido": "Lynx vs Inside",
+  "resultado": "8 - 7"
+},
+{
+  "_id": {
+    "$oid": "6640ffb8cde916528859ba90"
+  },
+  "fecha": "9/12/2023",
+  "hora": "14:15",
+  "cancha": "6",
+  "partido": "Rain vs Urutau Mix",
+  "resultado": "7 - 10"
+},
+{
+  "_id": {
+    "$oid": "6641004dcde916528859ba91"
+  },
+  "fecha": "9/12/2023",
+  "hora": "14:15",
+  "cancha": "4",
+  "partido": "Fire vs Black Hawk",
+  "resultado": "13 - 6"
+},
+{
+  "_id": {
+    "$oid": "66410089cde916528859ba92"
+  },
+  "fecha": "9/12/2023",
+  "hora": "14:15",
+  "cancha": "8",
+  "partido": "Raza vs Vulcanous",
+  "resultado": "13 - 9"
+},
+{
+  "_id": {
+    "$oid": "664100d1cde916528859ba93"
+  },
+  "fecha": "9/12/2023",
+  "hora": "14:15",
+  "cancha": "5",
+  "partido": "Revelion vs Ciclon",
+  "resultado": "12 - 5"
+},
+{
+  "_id": {
+    "$oid": "66410112cde916528859ba94"
+  },
+  "fecha": "10/12/2023",
+  "hora": "8:30",
+  "cancha": "4",
+  "partido": "Fire vs Urutau Mix",
+  "resultado": "14 - 6"
+},
+{
+  "_id": {
+    "$oid": "66410145cde916528859ba95"
+  },
+  "fecha": "10/12/2023",
+  "hora": "8:30",
+  "cancha": "5",
+  "partido": "Revelion vs Raza",
+  "resultado": "13 - 9"
+},
+{
+  "_id": {
+    "$oid": "66410186cde916528859ba96"
+  },
+  "fecha": "10/12/2023",
+  "hora": "8:30",
+  "cancha": "6",
+  "partido": "Revelion vs Raza",
+  "resultado": "11 - 10"
+},
+{
+  "_id": {
+    "$oid": "664101b7cde916528859ba97"
+  },
+  "fecha": "10/12/2023",
+  "hora": "10:00",
+  "cancha": "4",
+  "partido": "Aloha Koa vs Lynx",
+  "resultado": "9 - 8"
+},
+{
+  "_id": {
+    "$oid": "664101e1cde916528859ba98"
+  },
+  "fecha": "10/12/2023",
+  "hora": "10:00",
+  "cancha": "5",
+  "partido": "Black Phoenix vs Inside",
+  "resultado": "9 - 12"
+},
+{
+  "_id": {
+    "$oid": "6641021acde916528859ba99"
+  },
+  "fecha": "10/12/2023",
+  "hora": "11:30",
+  "cancha": "4",
+  "partido": "Urutau Mix vs Raza",
+  "resultado": "9 - 10"
+},
+{
+  "_id": {
+    "$oid": "66410249cde916528859ba9a"
+  },
+  "fecha": "10/12/2023",
+  "hora": "11:30",
+  "cancha": "5",
+  "partido": "Black Hawk vs Vulcanous",
+  "resultado": "7 - 8"
+},
+{
+  "_id": {
+    "$oid": "664102abcde916528859ba9b"
+  },
+  "fecha": "10/12/2023",
+  "hora": "11:30",
+  "cancha": "6",
+  "partido": "Rain vs Ciclon",
+  "resultado": " - "
+},
+{
+  "_id": {
+    "$oid": "664102e8cde916528859ba9c"
+  },
+  "fecha": "10/12/2023",
+  "hora": "13:00",
+  "cancha": "7",
+  "partido": "Fire vs Revelion",
+  "resultado": "9 - 8"
+}]

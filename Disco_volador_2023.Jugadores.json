@@ -1,0 +1,3432 @@
+[{
+  "_id": {
+    "$oid": "663e2219e17055cba7cf4a20"
+  },
+  "numero": "1",
+  "nombre": "Armando",
+  "apellido": "Gomez",
+  "posicion": "Runner",
+  "edad": 64,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e32e0e17055cba7cf4a25"
+  },
+  "numero": "2",
+  "nombre": "Armando",
+  "apellido": "Gomez De la Ossa",
+  "posicion": "Runner",
+  "edad": 26,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e332be17055cba7cf4a26"
+  },
+  "numero": "3",
+  "nombre": "Carla Victoria",
+  "apellido": "Maldonado",
+  "posicion": "Cortador / Defensa",
+  "edad": 27,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3491e17055cba7cf4a27"
+  },
+  "numero": "4",
+  "nombre": "Catalina",
+  "apellido": "Cruz Marroquin",
+  "posicion": "Cortador / Defensa",
+  "edad": 19,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3517e17055cba7cf4a28"
+  },
+  "numero": "5",
+  "nombre": "Cristian Felipe",
+  "apellido": "Suanca Alfonso",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3552e17055cba7cf4a29"
+  },
+  "numero": "6",
+  "nombre": "David Alexander",
+  "apellido": "Rodriguez Moreno",
+  "posicion": "Cortador / Defensa",
+  "edad": 28,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e35dfe17055cba7cf4a2a"
+  },
+  "numero": "7",
+  "nombre": "Guillermo Eduardo",
+  "apellido": "Luna Rozo",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 23,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e369ce17055cba7cf4a2b"
+  },
+  "numero": "8",
+  "nombre": "Ivan",
+  "apellido": "Rodriguez Mejia",
+  "posicion": "Runner",
+  "edad": 25,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e36d4e17055cba7cf4a2c"
+  },
+  "numero": "9",
+  "nombre": "Javier",
+  "apellido": "Isaza De Larrannaga",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 25,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e370de17055cba7cf4a2d"
+  },
+  "numero": "10",
+  "nombre": "Juan Andres",
+  "apellido": "Villalobos Hernandez",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 21,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3756e17055cba7cf4a2e"
+  },
+  "numero": "11",
+  "nombre": "Camilo",
+  "apellido": "Cortes Camargo",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3790e17055cba7cf4a2f"
+  },
+  "numero": "12",
+  "nombre": "Juan Diego",
+  "apellido": "Lopez Ayala",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e37bce17055cba7cf4a30"
+  },
+  "numero": "13",
+  "nombre": "Juan Pablo",
+  "apellido": "Arinno Carrillo",
+  "posicion": "Armador / Defensa",
+  "edad": 22,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e39bfe17055cba7cf4a31"
+  },
+  "numero": "14",
+  "nombre": "Juan Pablo",
+  "apellido": "Correal Tarazona",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 21,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3a4ce17055cba7cf4a32"
+  },
+  "numero": "15",
+  "nombre": "Julian",
+  "apellido": "Tovar Ruiz",
+  "posicion": "Runner",
+  "edad": 26,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3bf8e17055cba7cf4a33"
+  },
+  "numero": "16",
+  "nombre": "Laura",
+  "apellido": "Romero",
+  "posicion": "Runner",
+  "edad": 64,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3cc4e17055cba7cf4a34"
+  },
+  "numero": "17",
+  "nombre": "Maria Camila",
+  "apellido": "Silva Cordoba",
+  "posicion": "Cortador / Ataque",
+  "edad": 22,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3d0fe17055cba7cf4a35"
+  },
+  "numero": "18",
+  "nombre": "Maria",
+  "apellido": "De La Hoz Bilbao",
+  "posicion": "Runner",
+  "edad": 30,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3d42e17055cba7cf4a36"
+  },
+  "numero": "19",
+  "nombre": "Michele",
+  "apellido": "Castro",
+  "posicion": "Runner",
+  "edad": 64,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3d9fe17055cba7cf4a37"
+  },
+  "numero": "20",
+  "nombre": "Nicolas",
+  "apellido": "Guerrero Sierra",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 26,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3e01e17055cba7cf4a38"
+  },
+  "numero": "21",
+  "nombre": "Sebastian",
+  "apellido": "Arellana Pinneros",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 25,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3e4ee17055cba7cf4a39"
+  },
+  "numero": "22",
+  "nombre": "Sergio Andres",
+  "apellido": "Restrepo Suarez",
+  "posicion": "Armador / Ataque, Armador / Defensa, Runner",
+  "edad": 30,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3f2ce17055cba7cf4a3a"
+  },
+  "numero": "23",
+  "nombre": "Sergio",
+  "apellido": "Barrera Holguin",
+  "posicion": "Armador / Defensa",
+  "edad": 23,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3f5be17055cba7cf4a3b"
+  },
+  "numero": "24",
+  "nombre": "Sophia",
+  "apellido": "Pinzon",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "663e3fdde17055cba7cf4a3c"
+  },
+  "numero": "1",
+  "nombre": "Alexander",
+  "apellido": "Ford Garcia",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 42,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e408ee17055cba7cf4a3d"
+  },
+  "numero": "2",
+  "nombre": "Andres David",
+  "apellido": "Fajardo Hernandez",
+  "posicion": "Armador / Ataque, Armador / Defensa",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e40d9e17055cba7cf4a3e"
+  },
+  "numero": "3",
+  "nombre": "Andres Santiago",
+  "apellido": "Gomez Blanco",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e415ce17055cba7cf4a40"
+  },
+  "numero": "4",
+  "nombre": "Bianca Marie",
+  "apellido": "Huller Castillo",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e41dce17055cba7cf4a41"
+  },
+  "numero": "5",
+  "nombre": "Carlos Alberto",
+  "apellido": "Alape Quiroga",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4202e17055cba7cf4a42"
+  },
+  "numero": "6",
+  "nombre": "Cristhian Camilo",
+  "apellido": "Sanchez Fino",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4231e17055cba7cf4a43"
+  },
+  "numero": "7",
+  "nombre": "Cristian Andres",
+  "apellido": "Velasquez Clavijo",
+  "posicion": "Cortador / Ataque",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e426ae17055cba7cf4a44"
+  },
+  "numero": "8",
+  "nombre": "Cristian David",
+  "apellido": "Silva Pennagos",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 30,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e42ace17055cba7cf4a45"
+  },
+  "numero": "9",
+  "nombre": "Cristian Fernando",
+  "apellido": "Pardo Rodriguez",
+  "posicion": "Cortador / Ataque",
+  "edad": 30,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4301e17055cba7cf4a46"
+  },
+  "numero": "10",
+  "nombre": "Cristian",
+  "apellido": "Pardo Rodriguez",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 30,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e432fe17055cba7cf4a47"
+  },
+  "numero": "11",
+  "nombre": "Daniel Mauricio",
+  "apellido": "Morales Rodriguez",
+  "posicion": "Cortador / Defensa",
+  "edad": 30,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4368e17055cba7cf4a48"
+  },
+  "numero": "12",
+  "nombre": "Daniela Alejandra",
+  "apellido": "Martinez Cobos",
+  "posicion": "Armador / Ataque, Cortador / Ataque, Runner",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e43a8e17055cba7cf4a49"
+  },
+  "numero": "13",
+  "nombre": "Daniela",
+  "apellido": "Correa Bernal",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 26,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e43f1e17055cba7cf4a4a"
+  },
+  "numero": "14",
+  "nombre": "David Alejandro",
+  "apellido": "Gonzales Rodriguez",
+  "posicion": "Cortador / Ataque",
+  "edad": 22,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e487be17055cba7cf4a4b"
+  },
+  "numero": "15",
+  "nombre": "David Leonardo",
+  "apellido": "Valencia",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e48cde17055cba7cf4a4c"
+  },
+  "numero": "16",
+  "nombre": "David",
+  "apellido": "Mosquera",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 27,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e48ffe17055cba7cf4a4d"
+  },
+  "numero": "17",
+  "nombre": "Diego Alejandro",
+  "apellido": "Molano Roa",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4958e17055cba7cf4a4e"
+  },
+  "numero": "18",
+  "nombre": "Henry Alexander",
+  "apellido": "Parra Sarmiento",
+  "posicion": "Armador / Defensa",
+  "edad": 29,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e49a0e17055cba7cf4a4f"
+  },
+  "numero": "19",
+  "nombre": "Henry Camilo",
+  "apellido": "Guevara Leyton",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e49cbe17055cba7cf4a50"
+  },
+  "numero": "20",
+  "nombre": "Hernan David",
+  "apellido": "Vargas Romero",
+  "posicion": "Armador / Ataque",
+  "edad": 31,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4a09e17055cba7cf4a51"
+  },
+  "numero": "21",
+  "nombre": "Jhonatan Nicolas",
+  "apellido": "Bolivar Chitiva",
+  "posicion": "Cortador / Defensa",
+  "edad": 19,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4a4ae17055cba7cf4a52"
+  },
+  "numero": "22",
+  "nombre": "Jorge Andres",
+  "apellido": "Larrarte Cadavid",
+  "posicion": "Armador / Ataque",
+  "edad": 40,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4a8ce17055cba7cf4a53"
+  },
+  "numero": "23",
+  "nombre": "Jorge Andres",
+  "apellido": "Suarez Camero",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4abee17055cba7cf4a54"
+  },
+  "numero": "24",
+  "nombre": "Juan Carlos",
+  "apellido": "Perez Becerra",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4afae17055cba7cf4a55"
+  },
+  "numero": "25",
+  "nombre": "Juan Esteban",
+  "apellido": "Cardenas",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 26,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4b38e17055cba7cf4a56"
+  },
+  "numero": "26",
+  "nombre": "Juan Esteban",
+  "apellido": "Moncada Londonno",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4b68e17055cba7cf4a57"
+  },
+  "numero": "27",
+  "nombre": "Juan Felipe",
+  "apellido": "Castillo Munnoz",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4b9be17055cba7cf4a58"
+  },
+  "numero": "28",
+  "nombre": "Juan Felipe",
+  "apellido": "Rojas Baron",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 25,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4be6e17055cba7cf4a59"
+  },
+  "numero": "29",
+  "nombre": "Juan Pablo",
+  "apellido": "Rico Medina",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 19,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4c2be17055cba7cf4a5a"
+  },
+  "numero": "30",
+  "nombre": "Julian",
+  "apellido": "Angulo Diaz",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 30,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4c7ee17055cba7cf4a5b"
+  },
+  "numero": "31",
+  "nombre": "Kevin Daniel",
+  "apellido": "Lopez Manrique",
+  "posicion": "Armador / Defensa",
+  "edad": 20,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4cece17055cba7cf4a5c"
+  },
+  "numero": "32",
+  "nombre": "Laura Lucia",
+  "apellido": "Marinno Quintero",
+  "posicion": "Armador / Defensa, Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4d38e17055cba7cf4a5d"
+  },
+  "numero": "33",
+  "nombre": "Luis Miguel",
+  "apellido": "Medina Hernandez",
+  "posicion": "Cortador / Defensa",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4da3e17055cba7cf4a5e"
+  },
+  "numero": "34",
+  "nombre": "Nicolas",
+  "apellido": "Casallas Morales",
+  "posicion": "Cortador / Defensa",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4ed1e17055cba7cf4a5f"
+  },
+  "numero": "35",
+  "nombre": "Nicolas",
+  "apellido": "Castro Uribe",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4f32e17055cba7cf4a60"
+  },
+  "numero": "36",
+  "nombre": "Oscar Julian",
+  "apellido": "Castanneda Espitia",
+  "posicion": "Armador / Ataque",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4f6de17055cba7cf4a61"
+  },
+  "numero": "37",
+  "nombre": "Sofia",
+  "apellido": "Pedraza Marquez",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4f94e17055cba7cf4a62"
+  },
+  "numero": "38",
+  "nombre": "William David",
+  "apellido": "Ospina Hernandez",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 28,
+  "equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "663e4ff8e17055cba7cf4a63"
+  },
+  "numero": "1",
+  "nombre": "Andrea",
+  "apellido": "Pachon",
+  "posicion": "Armador / Defensa",
+  "edad": 25,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e524ee17055cba7cf4a64"
+  },
+  "numero": "2",
+  "nombre": "Camilo",
+  "apellido": "Campo",
+  "posicion": "Cortador / Defensa",
+  "edad": 32,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e5299e17055cba7cf4a65"
+  },
+  "numero": "3",
+  "nombre": "Jared Nicolas",
+  "apellido": "Gomez Junco",
+  "posicion": "Armador / Ataque, Cortador / Ataque, Cortador / Defensa, Runner",
+  "edad": 26,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e52d4e17055cba7cf4a66"
+  },
+  "numero": "4",
+  "nombre": "Jessica",
+  "apellido": "Morales",
+  "posicion": "Armador / Ataque, Armador / Defensa",
+  "edad": 21,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e5310e17055cba7cf4a67"
+  },
+  "numero": "5",
+  "nombre": "Job",
+  "apellido": "Buitrago",
+  "posicion": "Armador / Defensa, Cortador / Ataque",
+  "edad": 22,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e533ce17055cba7cf4a68"
+  },
+  "numero": "6",
+  "nombre": "Jose Andres",
+  "apellido": "Vargas Paipa",
+  "posicion": "Armador / Ataque, Armador / Defensa, Runner",
+  "edad": 64,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e59bae17055cba7cf4a69"
+  },
+  "numero": "7",
+  "nombre": "Juan Camilo",
+  "apellido": "Prieto Acunna",
+  "posicion": "Armador / Defensa",
+  "edad": 24,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e59f3e17055cba7cf4a6a"
+  },
+  "numero": "8",
+  "nombre": "Juan",
+  "apellido": "Rozo",
+  "posicion": "Armador / Ataque",
+  "edad": 22,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e5abfe17055cba7cf4a6b"
+  },
+  "numero": "9",
+  "nombre": "Maria Alejandra",
+  "apellido": "Gamarra Gil",
+  "posicion": "Cortador / Ataque",
+  "edad": 26,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e5afae17055cba7cf4a6c"
+  },
+  "numero": "10",
+  "nombre": "Santiago",
+  "apellido": "Contreras Hueso",
+  "posicion": "Armador / Defensa, Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e5d68e17055cba7cf4a6d"
+  },
+  "numero": "11",
+  "nombre": "Sara",
+  "apellido": "Carrenno",
+  "posicion": "Armador / Ataque",
+  "edad": 28,
+  "equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "663e5e3be17055cba7cf4a6e"
+  },
+  "numero": "1",
+  "nombre": "Alejandro",
+  "apellido": "Grimaldi",
+  "posicion": "Runner",
+  "edad": 64,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e5e6fe17055cba7cf4a6f"
+  },
+  "numero": "2",
+  "nombre": "Angie",
+  "apellido": "Garcia Sons",
+  "posicion": "Cortador / Ataque",
+  "edad": 28,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e5f26e17055cba7cf4a70"
+  },
+  "numero": "3",
+  "nombre": "Arley",
+  "apellido": "Blanco Bayona",
+  "posicion": "Cortador / Ataque",
+  "edad": 29,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e5f55e17055cba7cf4a71"
+  },
+  "numero": "4",
+  "nombre": "Arnulfo",
+  "apellido": "Rojas Jimenez",
+  "posicion": "Runner",
+  "edad": 28,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e5f95e17055cba7cf4a72"
+  },
+  "numero": "5",
+  "nombre": "Carlos Santiago",
+  "apellido": "Mendez Betancourt",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 24,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e5fdae17055cba7cf4a73"
+  },
+  "numero": "6",
+  "nombre": "Cristhian Camilo",
+  "apellido": "Bonilla Prieto",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 33,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e600de17055cba7cf4a74"
+  },
+  "numero": "7",
+  "nombre": "Dylan Mauricio",
+  "apellido": "Sandoval Godoy",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663e8e8fe17055cba7cf4a75"
+  },
+  "numero": "8",
+  "nombre": "Eira Alejandra",
+  "apellido": "Erazo Aez",
+  "posicion": "Runner",
+  "edad": 24,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb63dcde916528859b978"
+  },
+  "numero": "9",
+  "nombre": "Gabriela",
+  "apellido": "Granados Rincon",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb67bcde916528859b979"
+  },
+  "numero": "10",
+  "nombre": "Javier Andres",
+  "apellido": "Bernal Luzardo",
+  "posicion": "Cortador / Defensa",
+  "edad": 29,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb6b4cde916528859b97a"
+  },
+  "numero": "11",
+  "nombre": "Juan Andres",
+  "apellido": "Ibagon Rojas",
+  "posicion": "Cortador / Defensa",
+  "edad": 28,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb6f5cde916528859b97b"
+  },
+  "numero": "12",
+  "nombre": "Juan Diego",
+  "apellido": "Cuellar Duran",
+  "posicion": "Armador / Defensa, Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb72ecde916528859b97c"
+  },
+  "numero": "13",
+  "nombre": "Juan Pablo",
+  "apellido": "Zuluaga Aristizabal",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 32,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb76ecde916528859b97d"
+  },
+  "numero": "14",
+  "nombre": "Juan",
+  "apellido": "Velez",
+  "posicion": "Runner",
+  "edad": 64,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb7d3cde916528859b97e"
+  },
+  "numero": "15",
+  "nombre": "Kelly Johanna",
+  "apellido": "Hernandez Caceres",
+  "posicion": "Cortador / Defensa",
+  "edad": 27,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb81acde916528859b97f"
+  },
+  "numero": "16",
+  "nombre": "Lesly",
+  "apellido": "Sanchez Sierra",
+  "posicion": "Runner",
+  "edad": 32,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb86fcde916528859b980"
+  },
+  "numero": "17",
+  "nombre": "Maria Catalina",
+  "apellido": "Patinno",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb8d6cde916528859b981"
+  },
+  "numero": "18",
+  "nombre": "Michael",
+  "apellido": "Cifuentes Maldonado",
+  "posicion": "Armador / Ataque, Cortador / Ataque, Runner",
+  "edad": 35,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb915cde916528859b982"
+  },
+  "numero": "19",
+  "nombre": "Michael Steven",
+  "apellido": "Uribe Castro",
+  "posicion": "Cortador / Defensa",
+  "edad": 29,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb95dcde916528859b983"
+  },
+  "numero": "20",
+  "nombre": "Natasha Daniela",
+  "apellido": "Gomez Duran",
+  "posicion": "Cortador / Ataque",
+  "edad": 26,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb9a6cde916528859b984"
+  },
+  "numero": "21",
+  "nombre": "Nicole Stefant",
+  "apellido": "Lozano Cuellar",
+  "posicion": "Runner",
+  "edad": 25,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663eb9edcde916528859b985"
+  },
+  "numero": "22",
+  "nombre": "Oswaldo Enrique",
+  "apellido": "Uribe Perez",
+  "posicion": "Runner",
+  "edad": 19,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebb43cde916528859b986"
+  },
+  "numero": "23",
+  "nombre": "Paola",
+  "apellido": "Guevara Calderon",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebbbacde916528859b987"
+  },
+  "numero": "24",
+  "nombre": "Pilar",
+  "apellido": "Munnoz Vargas",
+  "posicion": "Cortador / Ataque",
+  "edad": 43,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebc0ccde916528859b988"
+  },
+  "numero": "25",
+  "nombre": "Ruben Felipe",
+  "apellido": "Urrego Ospina",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebc4ecde916528859b989"
+  },
+  "numero": "26",
+  "nombre": "Santiago",
+  "apellido": "Matiz Blanco",
+  "posicion": "Armador / Defensa, Cortador / Defensa, Runner",
+  "edad": 22,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebc95cde916528859b98a"
+  },
+  "numero": "27",
+  "nombre": "Santiago",
+  "apellido": "Santamaria Moreno",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 32,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebcddcde916528859b98b"
+  },
+  "numero": "28",
+  "nombre": "Tania",
+  "apellido": "Ramirez Ruiz",
+  "posicion": "Runner",
+  "edad": 22,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebd22cde916528859b98c"
+  },
+  "numero": "29",
+  "nombre": "Valentina",
+  "apellido": "Carrillo Florez",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "663ebdcbcde916528859b98d"
+  },
+  "numero": "1",
+  "nombre": "Alejandra",
+  "apellido": "Hernandez Sanchez",
+  "posicion": "Cortador / Defensa",
+  "edad": 35,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ebe08cde916528859b98e"
+  },
+  "numero": "2",
+  "nombre": "Alexandra",
+  "apellido": "Palacio Cruz",
+  "posicion": "Armador / Ataque",
+  "edad": 27,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ebe4acde916528859b98f"
+  },
+  "numero": "3",
+  "nombre": "Ana Sofia",
+  "apellido": "Caviedes Venegas",
+  "posicion": "Cortador / Ataque",
+  "edad": 16,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ebec6cde916528859b990"
+  },
+  "numero": "4",
+  "nombre": "Andrea Catalina",
+  "apellido": "Alvarado Cardenas",
+  "posicion": "Armador / Ataque, Cortador / Ataque, Runner",
+  "edad": 36,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ebf1acde916528859b991"
+  },
+  "numero": "5",
+  "nombre": "Angela Rosa",
+  "apellido": "Sanabria Colorado",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ebf82cde916528859b992"
+  },
+  "numero": "6",
+  "nombre": "Cesar Alejandro",
+  "apellido": "Hernandez",
+  "posicion": "Armador / Ataque",
+  "edad": 30,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ebfcdcde916528859b993"
+  },
+  "numero": "7",
+  "nombre": "Claudia Marcela",
+  "apellido": "Sarmiento Davila",
+  "posicion": "Armador / Ataque, Cortador / Ataque, Runner",
+  "edad": 40,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec02ccde916528859b994"
+  },
+  "numero": "8",
+  "nombre": "Daniel Fernando",
+  "apellido": "Aguilar Benavides",
+  "posicion": "Cortador / Ataque",
+  "edad": 34,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec08ecde916528859b995"
+  },
+  "numero": "9",
+  "nombre": "David Santiago",
+  "apellido": "Martinez Otalora",
+  "posicion": "Armador / Defensa, Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec0dacde916528859b996"
+  },
+  "numero": "10",
+  "nombre": "Edgar Alberto",
+  "apellido": "Prieto Ortega",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 29,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec129cde916528859b997"
+  },
+  "numero": "11",
+  "nombre": "Edwin Stevie",
+  "apellido": "Rodriguez Guacaneme",
+  "posicion": "Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec17acde916528859b998"
+  },
+  "numero": "12",
+  "nombre": "Esteban",
+  "apellido": "Chavez Vaca",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 31,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec1cacde916528859b999"
+  },
+  "numero": "13",
+  "nombre": "Jairo Esteban",
+  "apellido": "Pinzon Ayala",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 27,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec228cde916528859b99a"
+  },
+  "numero": "14",
+  "nombre": "Johanna Carolina",
+  "apellido": "Colorado Quiroga",
+  "posicion": "Cortador / Defensa",
+  "edad": 39,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec26fcde916528859b99b"
+  },
+  "numero": "15",
+  "nombre": "Juan Sebastian",
+  "apellido": "Hernandez Giraldo",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec2abcde916528859b99c"
+  },
+  "numero": "16",
+  "nombre": "Juan Sebastian",
+  "apellido": "Rodriguez Celis",
+  "posicion": "Armador / Defensa",
+  "edad": 22,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec2eccde916528859b99d"
+  },
+  "numero": "17",
+  "nombre": "Maria Jose",
+  "apellido": "Gacharna",
+  "posicion": "Cortador / Ataque",
+  "edad": 22,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec353cde916528859b99e"
+  },
+  "numero": "18",
+  "nombre": "Maryi Tatiana",
+  "apellido": "Nieto Patinno",
+  "posicion": "Cortador / Ataque, Cortador / Defensa, Runner",
+  "edad": 26,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec3accde916528859b99f"
+  },
+  "numero": "19",
+  "nombre": "Mayra Alejandra",
+  "apellido": "Moreno",
+  "posicion": "Cortador / Defensa",
+  "edad": 26,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec3f4cde916528859b9a0"
+  },
+  "numero": "20",
+  "nombre": "Milton Eduardo",
+  "apellido": "Montenegro Romero",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 41,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec434cde916528859b9a1"
+  },
+  "numero": "21",
+  "nombre": "Nathalie",
+  "apellido": "Perez Bernal",
+  "posicion": "Cortador / Defensa",
+  "edad": 37,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec489cde916528859b9a2"
+  },
+  "numero": "22",
+  "nombre": "Oscar David",
+  "apellido": "Pinzon Ayala",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 32,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec4dccde916528859b9a3"
+  },
+  "numero": "23",
+  "nombre": "Yenifer Paola",
+  "apellido": "Moreno Martinez",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 32,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec518cde916528859b9a4"
+  },
+  "numero": "24",
+  "nombre": "Yuly Alejandra",
+  "apellido": "Ardila Hernandez",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 23,
+  "equipo": "Urutau"
+},
+{
+  "_id": {
+    "$oid": "663ec5dbcde916528859b9a5"
+  },
+  "numero": "1",
+  "nombre": "Michael Sebastian",
+  "apellido": "Cruz Forero",
+  "posicion": "Armador / Ataque, Armador / Defensa, Runner",
+  "edad": 28,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec636cde916528859b9a6"
+  },
+  "numero": "2",
+  "nombre": "Sergio Nicolas",
+  "apellido": "Cruz Forero",
+  "posicion": "Armador / Defensa, Cortador / Defensa, Runner",
+  "edad": 22,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec6cdcde916528859b9a7"
+  },
+  "numero": "3",
+  "nombre": "William Esteban",
+  "apellido": "Cruz Forero",
+  "posicion": "Cortador / Ataque",
+  "edad": 17,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec764cde916528859b9a8"
+  },
+  "numero": "6",
+  "nombre": "Sara Manuela",
+  "apellido": "Duarte forero",
+  "posicion": "Armador / Defensa, Cortador / Ataque",
+  "edad": 18,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec7adcde916528859b9a9"
+  },
+  "numero": "7",
+  "nombre": "Jhoan David",
+  "apellido": "Espejo Bricenno",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec811cde916528859b9aa"
+  },
+  "numero": "8",
+  "nombre": "Asly katherin",
+  "apellido": "Vallesteros Alvarez",
+  "posicion": "Armador / Ataque",
+  "edad": 24,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec870cde916528859b9ab"
+  },
+  "numero": "9",
+  "nombre": "Daniel Felipe",
+  "apellido": "Pinto Ojeda",
+  "posicion": "Armador / Ataque",
+  "edad": 28,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec8b9cde916528859b9ac"
+  },
+  "numero": "9",
+  "nombre": "David Santiago",
+  "apellido": "Jimenez Calixto",
+  "posicion": "Cortador / Ataque",
+  "edad": 23,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec907cde916528859b9ad"
+  },
+  "numero": "15",
+  "nombre": "Alan David",
+  "apellido": "Caceres Ochoa",
+  "posicion": "Cortador / Ataque",
+  "edad": 13,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec953cde916528859b9ae"
+  },
+  "numero": "20",
+  "nombre": "Edgar David",
+  "apellido": "Alvarado Alvarado",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 30,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ec999cde916528859b9af"
+  },
+  "numero": "21",
+  "nombre": "Carlos Eduardo",
+  "apellido": "Figueroa Ortega",
+  "posicion": "Armador / Ataque",
+  "edad": 28,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecd02cde916528859b9b0"
+  },
+  "numero": "23",
+  "nombre": "Francisco",
+  "apellido": "Montealegre Gonzalez",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecd54cde916528859b9b1"
+  },
+  "numero": "23",
+  "nombre": "Maria Jose",
+  "apellido": "Nieves Herrenno",
+  "posicion": "Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecdabcde916528859b9b2"
+  },
+  "numero": "26",
+  "nombre": "Diana Alejandra",
+  "apellido": "Torres Martinez",
+  "posicion": "Cortador / Ataque",
+  "edad": 30,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecdf3cde916528859b9b3"
+  },
+  "numero": "27",
+  "nombre": "Santiago",
+  "apellido": "Salamanca Pinneros",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 17,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ece4acde916528859b9b4"
+  },
+  "numero": "33",
+  "nombre": "Angie Vanesa",
+  "apellido": "Cano Monroy",
+  "posicion": "Armador / Ataque, Armador / Defensa",
+  "edad": 22,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecea7cde916528859b9b5"
+  },
+  "numero": "48",
+  "nombre": "Ana Sofia",
+  "apellido": "Duarte Forero",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecef3cde916528859b9b6"
+  },
+  "numero": "64",
+  "nombre": "Sergio",
+  "apellido": "Serge Garcia",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 25,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecf40cde916528859b9b7"
+  },
+  "numero": "73",
+  "nombre": "Juan Diego",
+  "apellido": "Salazar Rodriguez",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecf8bcde916528859b9b8"
+  },
+  "numero": "80",
+  "nombre": "Victor Hugo",
+  "apellido": "Nieves Herrenno",
+  "posicion": "Armador / Defensa",
+  "edad": 29,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ecfcecde916528859b9b9"
+  },
+  "numero": "95",
+  "nombre": "Emersson Dayan",
+  "apellido": "Fajardo Pico",
+  "posicion": "Cortador / Defensa",
+  "edad": 28,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ed02bcde916528859b9ba"
+  },
+  "numero": "99",
+  "nombre": "Luisa Fernanda",
+  "apellido": "Nieves Herrenno",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Rain"
+},
+{
+  "_id": {
+    "$oid": "663ed0b3cde916528859b9bb"
+  },
+  "numero": "1",
+  "nombre": "Andrea",
+  "apellido": "Rincon Monsalve",
+  "posicion": "Cortador / Defensa",
+  "edad": 45,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed101cde916528859b9bc"
+  },
+  "numero": "2",
+  "nombre": "Angela Rocio",
+  "apellido": "Diaz Barbosa",
+  "posicion": "Armador / Ataque",
+  "edad": 34,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed15ccde916528859b9bd"
+  },
+  "numero": "3",
+  "nombre": "Anthony Xavier",
+  "apellido": "Irisma Lopez",
+  "posicion": "Cortador / Ataque",
+  "edad": 28,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed1a7cde916528859b9be"
+  },
+  "numero": "4",
+  "nombre": "Carlos Alberto",
+  "apellido": "Anzola Uribe",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 35,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed1f0cde916528859b9bf"
+  },
+  "numero": "5",
+  "nombre": "Cesar Augusto",
+  "apellido": "Torres Chaparro",
+  "posicion": "Cortador / Ataque",
+  "edad": 37,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed244cde916528859b9c0"
+  },
+  "numero": "6",
+  "nombre": "Diego Armando",
+  "apellido": "Polo Mahecha",
+  "posicion": "Cortador / Defensa",
+  "edad": 36,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed299cde916528859b9c1"
+  },
+  "numero": "7",
+  "nombre": "Gustavo",
+  "apellido": "Sierra Correa",
+  "posicion": "Cortador / Ataque",
+  "edad": 20,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed2f7cde916528859b9c2"
+  },
+  "numero": "8",
+  "nombre": "Jaime Rafael",
+  "apellido": "Villa Valencia",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 39,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed349cde916528859b9c3"
+  },
+  "numero": "9",
+  "nombre": "Jennifer Paola",
+  "apellido": "Varon",
+  "posicion": "Cortador / Defensa",
+  "edad": 33,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed3cecde916528859b9c4"
+  },
+  "numero": "10",
+  "nombre": "Jennyfer Alioth",
+  "apellido": "Riveros Guerrero",
+  "posicion": "Armador / Ataque",
+  "edad": 28,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed41bcde916528859b9c5"
+  },
+  "numero": "11",
+  "nombre": "Jorge Hernan",
+  "apellido": "Zambrano Ordonnez",
+  "posicion": "Cortador / Defensa",
+  "edad": 48,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed477cde916528859b9c6"
+  },
+  "numero": "12",
+  "nombre": "Juan Sebastian",
+  "apellido": "Sanchez",
+  "posicion": "Cortador / Ataque",
+  "edad": 32,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed4c6cde916528859b9c7"
+  },
+  "numero": "13",
+  "nombre": "Kaleht David",
+  "apellido": "Camargo Pabon",
+  "posicion": "Cortador / Defensa",
+  "edad": 18,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed51fcde916528859b9c8"
+  },
+  "numero": "14",
+  "nombre": "Kevin Andres",
+  "apellido": "Aguillon Penna",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 29,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed576cde916528859b9c9"
+  },
+  "numero": "15",
+  "nombre": "Maria Camila",
+  "apellido": "Ortiz Portillo",
+  "posicion": "Cortador / Ataque",
+  "edad": 26,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed5cbcde916528859b9ca"
+  },
+  "numero": "16",
+  "nombre": "Nicolas Felipe",
+  "apellido": "Hernandez Rodriguez",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 29,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed612cde916528859b9cb"
+  },
+  "numero": "17",
+  "nombre": "Paola Stella",
+  "apellido": "Tache Rodriguez",
+  "posicion": "Cortador / Defensa",
+  "edad": 29,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed671cde916528859b9cc"
+  },
+  "numero": "18",
+  "nombre": "Robinson",
+  "apellido": "Uribe",
+  "posicion": "Armador / Ataque",
+  "edad": 28,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed6b1cde916528859b9cd"
+  },
+  "numero": "19",
+  "nombre": "Sergio David",
+  "apellido": "Rodelo Jimeno",
+  "posicion": "Armador / Defensa",
+  "edad": 20,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed700cde916528859b9ce"
+  },
+  "numero": "20",
+  "nombre": "Silvia Juliana",
+  "apellido": "Quintero Garcia",
+  "posicion": "Armador / Defensa",
+  "edad": 28,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed755cde916528859b9cf"
+  },
+  "numero": "21",
+  "nombre": "Vanessa",
+  "apellido": "Pinilla Valderrama",
+  "posicion": "Cortador / Ataque, Cortador / Defensa, Runner",
+  "edad": 24,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed7abcde916528859b9d0"
+  },
+  "numero": "22",
+  "nombre": "Victor Kellerman",
+  "apellido": "Zuleta Torres",
+  "posicion": "Armador / Ataque",
+  "edad": 32,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed7f2cde916528859b9d1"
+  },
+  "numero": "23",
+  "nombre": "Yessith",
+  "apellido": "Bornacelly B.",
+  "posicion": "Cortador / Defensa",
+  "edad": 27,
+  "equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "663ed894cde916528859b9d2"
+  },
+  "numero": "1",
+  "nombre": "Camila",
+  "apellido": "Yepes Pelaez",
+  "posicion": "Runner",
+  "edad": 32,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ed8dccde916528859b9d3"
+  },
+  "numero": "2",
+  "nombre": "Cesar Steven",
+  "apellido": "Rodriguez Quiros",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ed929cde916528859b9d4"
+  },
+  "numero": "3",
+  "nombre": "Chars Antoni",
+  "apellido": "Soto Parada",
+  "posicion": "Armador / Ataque, Armador / Defensa, Runner",
+  "edad": 34,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ed982cde916528859b9d5"
+  },
+  "numero": "4",
+  "nombre": "Christian Camilo",
+  "apellido": "Escobar Roa",
+  "posicion": "Armador / Defensa, Cortador / Defensa",
+  "edad": 31,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ed9fbcde916528859b9d6"
+  },
+  "numero": "5",
+  "nombre": "Cinduli Ziru uma",
+  "apellido": "Mancera Gomez",
+  "posicion": "Cortador / Ataque",
+  "edad": 28,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663eda49cde916528859b9d7"
+  },
+  "numero": "6",
+  "nombre": "Cristian Camilo",
+  "apellido": "Chavarro Cruz",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663eda9fcde916528859b9d8"
+  },
+  "numero": "7",
+  "nombre": "Daniel Alberto",
+  "apellido": "Rodriguez Pachon",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 31,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edafacde916528859b9d9"
+  },
+  "numero": "8",
+  "nombre": "Daniel Santiago",
+  "apellido": "Paez Mojica",
+  "posicion": "Armador / Ataque",
+  "edad": 26,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edb62cde916528859b9da"
+  },
+  "numero": "8",
+  "nombre": "Daniel Santiago",
+  "apellido": "Paez Mojica",
+  "posicion": "Armador / Ataque",
+  "edad": 26,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edbdfcde916528859b9db"
+  },
+  "numero": "9",
+  "nombre": "Emilia",
+  "apellido": "Gallardo Cabrera",
+  "posicion": "Cortador / Defensa",
+  "edad": 26,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edc3ccde916528859b9dc"
+  },
+  "numero": "10",
+  "nombre": "Fabian Leonardo",
+  "apellido": "Rojas Martinez",
+  "posicion": "Armador / Ataque, Armador / Defensa",
+  "edad": 27,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edc82cde916528859b9dd"
+  },
+  "numero": "11",
+  "nombre": "Fidel Alejandro",
+  "apellido": "Lesmes Calderon",
+  "posicion": "Cortador / Defensa",
+  "edad": 27,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edceecde916528859b9de"
+  },
+  "numero": "12",
+  "nombre": "Gabriel Eduardo",
+  "apellido": "Paez Mojica",
+  "posicion": "Armador / Defensa",
+  "edad": 28,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edd37cde916528859b9df"
+  },
+  "numero": "13",
+  "nombre": "Jaime Eduardo",
+  "apellido": "Campos",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 39,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edd96cde916528859b9e0"
+  },
+  "numero": "14",
+  "nombre": "James Eliot",
+  "apellido": "Vargas Sandoval",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edde8cde916528859b9e1"
+  },
+  "numero": "15",
+  "nombre": "Jesus David",
+  "apellido": "Cupasachoa Ricaurte",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 31,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ede67cde916528859b9e2"
+  },
+  "numero": "16",
+  "nombre": "Jesus Ricardo",
+  "apellido": "Camacho Calderon",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 32,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edececde916528859b9e3"
+  },
+  "numero": "17",
+  "nombre": "Joel Leonardo",
+  "apellido": "Gomez Munnoz",
+  "posicion": "Armador / Defensa, Cortador / Ataque",
+  "edad": 26,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edf1dcde916528859b9e4"
+  },
+  "numero": "18",
+  "nombre": "Juan Felipe",
+  "apellido": "Calderon Diaz",
+  "posicion": "Armador / Ataque",
+  "edad": 23,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edf6bcde916528859b9e5"
+  },
+  "numero": "19",
+  "nombre": "Juan Sebastian",
+  "apellido": "Figueroa Romero",
+  "posicion": "Cortador / Ataque, Cortador / Defensa, Runner",
+  "edad": 28,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663edfd0cde916528859b9e6"
+  },
+  "numero": "20",
+  "nombre": "Juan Sebastian",
+  "apellido": "Gonzalez Moreno",
+  "posicion": "Cortador / Defensa",
+  "edad": 27,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee025cde916528859b9e7"
+  },
+  "numero": "21",
+  "nombre": "Leidy Yulieth",
+  "apellido": "Caballero Moreno",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee06ccde916528859b9e8"
+  },
+  "numero": "22",
+  "nombre": "Maria Camila",
+  "apellido": "Garcia Bocanegra",
+  "posicion": "Armador / Ataque",
+  "edad": 24,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee0b3cde916528859b9e9"
+  },
+  "numero": "23",
+  "nombre": "Maria Paula",
+  "apellido": "Sosa Rodriguez",
+  "posicion": "Cortador / Defensa",
+  "edad": 26,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee34fcde916528859b9ea"
+  },
+  "numero": "24",
+  "nombre": "Mariangel Anahys",
+  "apellido": "Vargas Castillo",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 35,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee39bcde916528859b9eb"
+  },
+  "numero": "25",
+  "nombre": "Michel Daniela",
+  "apellido": "Barreto Aguillon",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee3f6cde916528859b9ec"
+  },
+  "numero": "26",
+  "nombre": "Michelle",
+  "apellido": "Ruiz Granados",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 29,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee464cde916528859b9ed"
+  },
+  "numero": "27",
+  "nombre": "Nicola",
+  "apellido": "Gomez Gaitan",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 26,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee4a7cde916528859b9ee"
+  },
+  "numero": "28",
+  "nombre": "Paula Andrea",
+  "apellido": "Zamora Moreno",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 32,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee4f2cde916528859b9ef"
+  },
+  "numero": "29",
+  "nombre": "Tifanny Samanta",
+  "apellido": "Moreno Osorio",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 25,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee539cde916528859b9f0"
+  },
+  "numero": "30",
+  "nombre": "Tomas David",
+  "apellido": "Bonilla Sanchez",
+  "posicion": "Cortador / Defensa",
+  "edad": 18,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663ee57bcde916528859b9f1"
+  },
+  "numero": "31",
+  "nombre": "Julieth Daiana",
+  "apellido": "Tovar Lizarazo",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "663eea96cde916528859b9f2"
+  },
+  "numero": "0",
+  "nombre": "Jose David",
+  "apellido": "Zorrilla Cedenno",
+  "posicion": "Cortador / Ataque",
+  "edad": 25,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeacecde916528859b9f3"
+  },
+  "numero": "1",
+  "nombre": "Jessica Alejandra",
+  "apellido": "Revelo Cano",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 28,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeb10cde916528859b9f4"
+  },
+  "numero": "2",
+  "nombre": "July",
+  "apellido": "Garcia",
+  "posicion": "Cortador / Ataque",
+  "edad": 29,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeb45cde916528859b9f5"
+  },
+  "numero": "4",
+  "nombre": "Dayana",
+  "apellido": "Rodriguez Cruz",
+  "posicion": "Cortador / Defensa",
+  "edad": 27,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeb73cde916528859b9f6"
+  },
+  "numero": "6",
+  "nombre": "Brayton Slaiter",
+  "apellido": "Tavera Duque",
+  "posicion": "Cortador / Ataque",
+  "edad": 26,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeba0cde916528859b9f7"
+  },
+  "numero": "7",
+  "nombre": "Brayan",
+  "apellido": "Barco Estrada",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 32,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eebdbcde916528859b9f8"
+  },
+  "numero": "10",
+  "nombre": "Ana Maria",
+  "apellido": "Hugueth Gonzalez",
+  "posicion": "Cortador / Defensa",
+  "edad": 26,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eec0acde916528859b9f9"
+  },
+  "numero": "17",
+  "nombre": "Geraldine",
+  "apellido": "Gonzalez Pinilla",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eec38cde916528859b9fa"
+  },
+  "numero": "20",
+  "nombre": "Juanita",
+  "apellido": "Gomez",
+  "posicion": "Cortador / Defensa",
+  "edad": 29,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eec6bcde916528859b9fb"
+  },
+  "numero": "20",
+  "nombre": "Daniela",
+  "apellido": "Campo Ramos",
+  "posicion": "Cortador / Ataque",
+  "edad": 23,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeca0cde916528859b9fc"
+  },
+  "numero": "21",
+  "nombre": "Andres Felipe",
+  "apellido": "Moreno Lopez",
+  "posicion": "Cortador / Ataque",
+  "edad": 32,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeccfcde916528859b9fd"
+  },
+  "numero": "22",
+  "nombre": "Carlos Alberto",
+  "apellido": "Carbonell Zunniga",
+  "posicion": "Cortador / Ataque",
+  "edad": 28,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eecffcde916528859b9fe"
+  },
+  "numero": "22",
+  "nombre": "Santiago",
+  "apellido": "Pennuela Idarraga",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 22,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eed3bcde916528859b9ff"
+  },
+  "numero": "25",
+  "nombre": "Luisa Maria",
+  "apellido": "Jimenez",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eed68cde916528859ba00"
+  },
+  "numero": "25",
+  "nombre": "Lucy Jazmin",
+  "apellido": "Ospina Garcia",
+  "posicion": "Cortador / Ataque",
+  "edad": 28,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eedf0cde916528859ba01"
+  },
+  "numero": "26",
+  "nombre": "Anna Maria",
+  "apellido": "Martinez Meneses",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 23,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eee27cde916528859ba02"
+  },
+  "numero": "26",
+  "nombre": "Jhon Alexander",
+  "apellido": "Perez Avila",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eee54cde916528859ba03"
+  },
+  "numero": "27",
+  "nombre": "Alejandro",
+  "apellido": "Morales Martinez",
+  "posicion": "Cortador / Defensa",
+  "edad": 31,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eee90cde916528859ba04"
+  },
+  "numero": "28",
+  "nombre": "Valentina",
+  "apellido": "Rodriguez Acevedo",
+  "posicion": "Cortador / Defensa",
+  "edad": 25,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeec1cde916528859ba05"
+  },
+  "numero": "30",
+  "nombre": "Nicolas",
+  "apellido": "Solis Garces",
+  "posicion": "Armador / Ataque",
+  "edad": 27,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eeeeecde916528859ba06"
+  },
+  "numero": "36",
+  "nombre": "Jose Ivan",
+  "apellido": "Rudiaz",
+  "posicion": "Cortador / Ataque",
+  "edad": 34,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eef2acde916528859ba07"
+  },
+  "numero": "44",
+  "nombre": "Dana Sofia",
+  "apellido": "Fujisaka Calderon",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eef57cde916528859ba08"
+  },
+  "numero": "56",
+  "nombre": "Sebastian",
+  "apellido": "Villaquiran Manrique",
+  "posicion": "Armador / Ataque",
+  "edad": 27,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eef8bcde916528859ba09"
+  },
+  "numero": "56",
+  "nombre": "David",
+  "apellido": "Rivera Herrera",
+  "posicion": "Armador / Defensa",
+  "edad": 38,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eefb4cde916528859ba0a"
+  },
+  "numero": "66",
+  "nombre": "Andres Felipe",
+  "apellido": "Melo Rios",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663eefe2cde916528859ba0b"
+  },
+  "numero": "77",
+  "nombre": "Diego Fernando",
+  "apellido": "Realpe Collazos",
+  "posicion": "Armador / Ataque",
+  "edad": 27,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663ef010cde916528859ba0c"
+  },
+  "numero": "81",
+  "nombre": "Camilo",
+  "apellido": "Quintero",
+  "posicion": "Cortador / Defensa",
+  "edad": 31,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663ef052cde916528859ba0d"
+  },
+  "numero": "88",
+  "nombre": "Jhon Alexander",
+  "apellido": "Olaya",
+  "posicion": "Armador / Defensa",
+  "edad": 22,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663ef094cde916528859ba0e"
+  },
+  "numero": "93",
+  "nombre": "Luis Alberto",
+  "apellido": "Erazo Ramos",
+  "posicion": "Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663ef0c0cde916528859ba0f"
+  },
+  "numero": "94",
+  "nombre": "Susana Alejandra",
+  "apellido": "Usman Salazar",
+  "posicion": "Cortador / Defensa",
+  "edad": 24,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663ef0eacde916528859ba10"
+  },
+  "numero": "95",
+  "nombre": "Andrea",
+  "apellido": "Castanno Zambrano",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "663ef114cde916528859ba11"
+  },
+  "numero": "99",
+  "nombre": "Luisa Fernanda",
+  "apellido": "Valencia",
+  "posicion": "Armador / Ataque",
+  "edad": 24,
+  "equipo": "Aloha"
+},
+{
+  "_id": {
+    "$oid": "6640cdd6cde916528859ba12"
+  },
+  "numero": "1",
+  "nombre": "Adrian David",
+  "apellido": "Gonzalez Rocha",
+  "posicion": "Cortador / Defensa",
+  "edad": 18,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640ce07cde916528859ba13"
+  },
+  "numero": "2",
+  "nombre": "Alejandro",
+  "apellido": "Penna Leguizamo",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 43,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d046cde916528859ba14"
+  },
+  "numero": "3",
+  "nombre": "Ana Maria",
+  "apellido": "Zambrano Ortiz",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d087cde916528859ba15"
+  },
+  "numero": "4",
+  "nombre": "Andres Fernando",
+  "apellido": "Ramirez Sanchez",
+  "posicion": "Cortador / Defensa",
+  "edad": 16,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d11fcde916528859ba16"
+  },
+  "numero": "5",
+  "nombre": "Andres Julian",
+  "apellido": "Vasquez",
+  "posicion": "Armador / Ataque",
+  "edad": 19,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d15acde916528859ba17"
+  },
+  "numero": "6",
+  "nombre": "Angela Viviana",
+  "apellido": "Cruz Gutierrez",
+  "posicion": "Armador / Ataque, Cortador / Defensa, Runner",
+  "edad": 20,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d192cde916528859ba18"
+  },
+  "numero": "7",
+  "nombre": "Daniela",
+  "apellido": "Sandoval Rincon",
+  "posicion": "Cortador / Ataque",
+  "edad": 12,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d1d7cde916528859ba19"
+  },
+  "numero": "8",
+  "nombre": "Dara Isabella",
+  "apellido": "Molano Rincon",
+  "posicion": "Cortador / Ataque",
+  "edad": 12,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d2cdcde916528859ba1a"
+  },
+  "numero": "9",
+  "nombre": "Isabella",
+  "apellido": "Mora",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d314cde916528859ba1b"
+  },
+  "numero": "10",
+  "nombre": "Jose Mauricio",
+  "apellido": "Cruz Gutierrez",
+  "posicion": "Armador / Ataque, Cortador / Defensa, Runner",
+  "edad": 30,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d346cde916528859ba1c"
+  },
+  "numero": "11",
+  "nombre": "Juan Felipe",
+  "apellido": "Paez Gonzalez",
+  "posicion": "Armador / Ataque, Cortador / Ataque, Runner",
+  "edad": 21,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d381cde916528859ba1d"
+  },
+  "numero": "12",
+  "nombre": "Juan Felipe",
+  "apellido": "Pineda Rincon",
+  "posicion": "Cortador / Ataque",
+  "edad": 18,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d3b8cde916528859ba1e"
+  },
+  "numero": "13",
+  "nombre": "Juan Pablo",
+  "apellido": "Rozo Torres",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 22,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d3fbcde916528859ba1f"
+  },
+  "numero": "14",
+  "nombre": "Julian David",
+  "apellido": "Molano Rincon",
+  "posicion": "Armador / Ataque, Armador / Defensa, Runner",
+  "edad": 20,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d437cde916528859ba20"
+  },
+  "numero": "15",
+  "nombre": "Laura Catalina",
+  "apellido": "Cardenas Arandia",
+  "posicion": "Armador / Ataque",
+  "edad": 18,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d47ccde916528859ba21"
+  },
+  "numero": "16",
+  "nombre": "Maria Angelica",
+  "apellido": "Bohorquez Arteaga",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d4b5cde916528859ba22"
+  },
+  "numero": "17",
+  "nombre": "Maria Fernanda",
+  "apellido": "Pinilla Valderrama",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 26,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d4f2cde916528859ba23"
+  },
+  "numero": "18",
+  "nombre": "Mateo",
+  "apellido": "Lasprilla Portela",
+  "posicion": "Cortador / Ataque",
+  "edad": 22,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d52acde916528859ba24"
+  },
+  "numero": "19",
+  "nombre": "Miguel Angel",
+  "apellido": "Penna",
+  "posicion": "Cortador / Ataque",
+  "edad": 17,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d573cde916528859ba25"
+  },
+  "numero": "20",
+  "nombre": "Nicolas",
+  "apellido": "Chaves Hernandez",
+  "posicion": "Armador / Ataque",
+  "edad": 20,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d5a3cde916528859ba26"
+  },
+  "numero": "21",
+  "nombre": "Nicole Catalina",
+  "apellido": "Arias Penagos",
+  "posicion": "Cortador / Ataque",
+  "edad": 18,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d5e4cde916528859ba27"
+  },
+  "numero": "22",
+  "nombre": "Salma Nidal",
+  "apellido": "Nofal Gualteros",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 20,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d72bcde916528859ba28"
+  },
+  "numero": "23",
+  "nombre": "Samuel David Alberto",
+  "apellido": "Gaona Gonzalez",
+  "posicion": "Cortador / Ataque",
+  "edad": 17,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d75dcde916528859ba29"
+  },
+  "numero": "24",
+  "nombre": "Santiago Andres",
+  "apellido": "Caceres Guiza",
+  "posicion": "Cortador / Defensa, Runner",
+  "edad": 25,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d82fcde916528859ba2a"
+  },
+  "numero": "25",
+  "nombre": "Santiago Andres",
+  "apellido": "Guerrero Rios",
+  "posicion": "Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d876cde916528859ba2b"
+  },
+  "numero": "26",
+  "nombre": "Santiago",
+  "apellido": "Forero Leguizamon",
+  "posicion": "Cortador / Defensa",
+  "edad": 19,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d8aacde916528859ba2c"
+  },
+  "numero": "27",
+  "nombre": "Sara Bibiana",
+  "apellido": "Portilla Socha",
+  "posicion": "Cortador / Ataque",
+  "edad": 18,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d8f2cde916528859ba2d"
+  },
+  "numero": "28",
+  "nombre": "Sara Valentina",
+  "apellido": "Vente Romero",
+  "posicion": "Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d944cde916528859ba2e"
+  },
+  "numero": "29",
+  "nombre": "Sergio Andres",
+  "apellido": "Forero Abello",
+  "posicion": "Cortador / Defensa",
+  "edad": 17,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d986cde916528859ba2f"
+  },
+  "numero": "30",
+  "nombre": "Sharon Michel",
+  "apellido": "Torres Fierro",
+  "posicion": "Cortador / Defensa",
+  "edad": 15,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640d9ddcde916528859ba30"
+  },
+  "numero": "31",
+  "nombre": "Sofia",
+  "apellido": "Lievano Rodriguez",
+  "posicion": "Cortador / Defensa",
+  "edad": 19,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640da20cde916528859ba31"
+  },
+  "numero": "32",
+  "nombre": "Valentina",
+  "apellido": "Mejia Florez",
+  "posicion": "Armador / Ataque",
+  "edad": 18,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640da4fcde916528859ba32"
+  },
+  "numero": "33",
+  "nombre": "Yeffer Alejandro",
+  "apellido": "Penna Leguizamon",
+  "posicion": "Armador / Defensa",
+  "edad": 43,
+  "equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640dbc6cde916528859ba33"
+  },
+  "numero": "1",
+  "nombre": "Andrea",
+  "apellido": "Romero",
+  "posicion": "Armador / Defensa",
+  "edad": 22,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dc08cde916528859ba34"
+  },
+  "numero": "2",
+  "nombre": "Camilo",
+  "apellido": "Alegria",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dc45cde916528859ba35"
+  },
+  "numero": "3",
+  "nombre": "Camilo",
+  "apellido": "Guevara",
+  "posicion": "Cortador / Ataque",
+  "edad": 31,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dc68cde916528859ba36"
+  },
+  "numero": "4",
+  "nombre": "Carlos",
+  "apellido": "Cruz",
+  "posicion": "Armador / Ataque",
+  "edad": 19,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dc95cde916528859ba37"
+  },
+  "numero": "5",
+  "nombre": "Carlos",
+  "apellido": "Pulido",
+  "posicion": "Cortador / Ataque",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dcc1cde916528859ba38"
+  },
+  "numero": "6",
+  "nombre": "Daniel",
+  "apellido": "Torres",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 42,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dcefcde916528859ba39"
+  },
+  "numero": "7",
+  "nombre": "Diego",
+  "apellido": "Florez",
+  "posicion": "Armador / Defensa",
+  "edad": 23,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dd39cde916528859ba3a"
+  },
+  "numero": "8",
+  "nombre": "Diego",
+  "apellido": "Prado",
+  "posicion": "Cortador / Defensa",
+  "edad": 19,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dd77cde916528859ba3b"
+  },
+  "numero": "9",
+  "nombre": "Diego",
+  "apellido": "Villamizar Rubiano",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 32,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640de80cde916528859ba3c"
+  },
+  "numero": "10",
+  "nombre": "Felipe",
+  "apellido": "Torres",
+  "posicion": "Armador / Defensa",
+  "edad": 22,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640deb3cde916528859ba3d"
+  },
+  "numero": "11",
+  "nombre": "Gino",
+  "apellido": "Pinneros",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640def0cde916528859ba3e"
+  },
+  "numero": "12",
+  "nombre": "Jaime",
+  "apellido": "Pennaloza",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640df31cde916528859ba3f"
+  },
+  "numero": "13",
+  "nombre": "Juan David",
+  "apellido": "Vergara",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640df61cde916528859ba40"
+  },
+  "numero": "14",
+  "nombre": "Laura",
+  "apellido": "Alfonso",
+  "posicion": "Armador / Defensa",
+  "edad": 23,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640df8bcde916528859ba41"
+  },
+  "numero": "15",
+  "nombre": "Maria Fernanda",
+  "apellido": "Vacca",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640dfc6cde916528859ba42"
+  },
+  "numero": "16",
+  "nombre": "Maria Jose",
+  "apellido": "Gamboa Guzman",
+  "posicion": "Cortador / Ataque, Cortador / Defensa, Runner",
+  "edad": 19,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e09bcde916528859ba43"
+  },
+  "numero": "17",
+  "nombre": "Maria Juliana",
+  "apellido": "Giraldo",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e0c4cde916528859ba44"
+  },
+  "numero": "18",
+  "nombre": "Nicolas",
+  "apellido": "Pita",
+  "posicion": "Armador / Defensa, Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e0f0cde916528859ba45"
+  },
+  "numero": "19",
+  "nombre": "Omar",
+  "apellido": "Soto",
+  "posicion": "Cortador / Ataque",
+  "edad": 26,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e13bcde916528859ba46"
+  },
+  "numero": "20",
+  "nombre": "Santiago",
+  "apellido": "Prieto",
+  "posicion": "Cortador / Ataque, Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e177cde916528859ba47"
+  },
+  "numero": "21",
+  "nombre": "Tatiana",
+  "apellido": "Rodriguez Cardona",
+  "posicion": "Armador / Ataque, Runner",
+  "edad": 35,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e1a8cde916528859ba48"
+  },
+  "numero": "22",
+  "nombre": "Tiffany",
+  "apellido": "Barrera",
+  "posicion": "Cortador / Ataque",
+  "edad": 20,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e1d7cde916528859ba49"
+  },
+  "numero": "23",
+  "nombre": "Valeria",
+  "apellido": "Ariza",
+  "posicion": "Cortador / Ataque, Runner",
+  "edad": 26,
+  "equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640e2aacde916528859ba4a"
+  },
+  "numero": "1",
+  "nombre": "Brian",
+  "apellido": "Velasquez",
+  "posicion": "Cortador / Ataque",
+  "edad": 28,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e323cde916528859ba4b"
+  },
+  "numero": "2",
+  "nombre": "Camila",
+  "apellido": "Gomez",
+  "posicion": "Lopez",
+  "edad": 31,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e35acde916528859ba4c"
+  },
+  "numero": "3",
+  "nombre": "Cristian",
+  "apellido": "Nossa",
+  "posicion": "Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e37fcde916528859ba4d"
+  },
+  "numero": "4",
+  "nombre": "Isabella",
+  "apellido": "",
+  "posicion": "Cortador / Defensa",
+  "edad": 21,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e3abcde916528859ba4e"
+  },
+  "numero": "5",
+  "nombre": "Javier",
+  "apellido": "Moreno",
+  "posicion": "Cortador / Ataque",
+  "edad": 19,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e3dccde916528859ba4f"
+  },
+  "numero": "6",
+  "nombre": "Jepher",
+  "apellido": "Diaz",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e415cde916528859ba50"
+  },
+  "numero": "7",
+  "nombre": "Joel",
+  "apellido": "Bello",
+  "posicion": "Armador / Defensa",
+  "edad": 24,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e43bcde916528859ba51"
+  },
+  "numero": "8",
+  "nombre": "Laura",
+  "apellido": "Herrera",
+  "posicion": "Armador / Ataque",
+  "edad": 24,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e46ecde916528859ba52"
+  },
+  "numero": "9",
+  "nombre": "Mateo",
+  "apellido": "Gonzalez",
+  "posicion": "Cortador / Defensa",
+  "edad": 26,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e498cde916528859ba53"
+  },
+  "numero": "10",
+  "nombre": "Miguel Angel",
+  "apellido": "Sanchez",
+  "posicion": "Armador / Ataque",
+  "edad": 16,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e54dcde916528859ba54"
+  },
+  "numero": "11",
+  "nombre": "Nicolas",
+  "apellido": "Riveros",
+  "posicion": "Cortador / Ataque",
+  "edad": 23,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e571cde916528859ba55"
+  },
+  "numero": "12",
+  "nombre": "Paula",
+  "apellido": "Lopez",
+  "posicion": "Cortador / Defensa",
+  "edad": 22,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e59ccde916528859ba56"
+  },
+  "numero": "13",
+  "nombre": "Santiago",
+  "apellido": "Elles",
+  "posicion": "Cortador / Defensa",
+  "edad": 20,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e5d4cde916528859ba57"
+  },
+  "numero": "14",
+  "nombre": "Santiago",
+  "apellido": "Leal",
+  "posicion": "Armador / Defensa",
+  "edad": 19,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e65dcde916528859ba58"
+  },
+  "numero": "15",
+  "nombre": "Santiago",
+  "apellido": "Vargas",
+  "posicion": "Cortador / Defensa",
+  "edad": 23,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e689cde916528859ba59"
+  },
+  "numero": "16",
+  "nombre": "Sergio",
+  "apellido": "Garcia",
+  "posicion": "Armador / Ataque",
+  "edad": 26,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e6b5cde916528859ba5a"
+  },
+  "numero": "17",
+  "nombre": "Sharon",
+  "apellido": "Paez",
+  "posicion": "Armador / Defensa",
+  "edad": 26,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e6d3cde916528859ba5b"
+  },
+  "numero": "18",
+  "nombre": "Sofia",
+  "apellido": "Martinez",
+  "posicion": "Cortador / Ataque",
+  "edad": 24,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e6fdcde916528859ba5c"
+  },
+  "numero": "19",
+  "nombre": "Steven",
+  "apellido": "Gutierrez",
+  "posicion": "Armador / Defensa, Runner",
+  "edad": 32,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e723cde916528859ba5d"
+  },
+  "numero": "20",
+  "nombre": "Valery",
+  "apellido": "Silva",
+  "posicion": "Armador / Ataque",
+  "edad": 19,
+  "equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640e75fcde916528859ba5e"
+  },
+  "numero": "21",
+  "nombre": "William Andres",
+  "apellido": "Silva",
+  "posicion": "Armador / Ataque",
+  "edad": 27,
+  "equipo": "Lynx"
+}]

@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6640f426cde916528859ba68"
+  },
+  "Posicion_E-J": "2",
+  "Puntaje_E-J": "9.80",
+  "Equipo": "Ciclon"
+},
+{
+  "_id": {
+    "$oid": "6640f459cde916528859ba69"
+  },
+  "Posicion_E-J": "3",
+  "Puntaje_E-J": "9.20",
+  "Equipo": "Inside"
+},
+{
+  "_id": {
+    "$oid": "6640f490cde916528859ba6a"
+  },
+  "Posicion_E-J": "4",
+  "Puntaje_E-J": "9.17",
+  "Equipo": "Fire"
+},
+{
+  "_id": {
+    "$oid": "6640f531cde916528859ba6d"
+  },
+  "Posicion_E-J": "1",
+  "Puntaje_E-J": "11.00",
+  "Equipo": "Aloha Koa"
+},
+{
+  "_id": {
+    "$oid": "6640f5b6cde916528859ba6e"
+  },
+  "Posicion_E-J": "5",
+  "Puntaje_E-J": "9.00",
+  "Equipo": "Vulcanous"
+},
+{
+  "_id": {
+    "$oid": "6640f602cde916528859ba6f"
+  },
+  "Posicion_E-J": "6",
+  "Puntaje_E-J": "8.80",
+  "Equipo": "Black Phoenix"
+},
+{
+  "_id": {
+    "$oid": "6640f61dcde916528859ba70"
+  },
+  "Posicion_E-J": "7",
+  "Puntaje_E-J": "8.00",
+  "Equipo": "Lynx"
+},
+{
+  "_id": {
+    "$oid": "6640f64fcde916528859ba71"
+  },
+  "Posicion_E-J": "8",
+  "Puntaje_E-J": "7.83",
+  "Equipo": "Raza"
+},
+{
+  "_id": {
+    "$oid": "6640f675cde916528859ba72"
+  },
+  "Posicion_E-J": "9",
+  "Puntaje_E-J": "7.50",
+  "Equipo": "Revelion"
+},
+{
+  "_id": {
+    "$oid": "6640f6a3cde916528859ba73"
+  },
+  "Posicion_E-J": "10",
+  "Puntaje_E-J": "6.67",
+  "Equipo": "Black Hawk"
+},
+{
+  "_id": {
+    "$oid": "6640f6c3cde916528859ba74"
+  },
+  "Posicion_E-J": "11",
+  "Puntaje_E-J": "6.67",
+  "Equipo": "Urutau Mix"
+},
+{
+  "_id": {
+    "$oid": "6640f6eccde916528859ba75"
+  },
+  "Posicion_E-J": "12",
+  "Puntaje_E-J": "3.60",
+  "Equipo": "Rain"
+}]

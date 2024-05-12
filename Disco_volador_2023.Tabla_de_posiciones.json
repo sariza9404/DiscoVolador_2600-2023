@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "664135806528a5636a82ae74"
+  },
+  "Pos": 1,
+  "Equipo": "Fire",
+  "PJ": 6,
+  "PG": 6,
+  "PP": 0,
+  "6F": 75,
+  "GC": 36,
+  "GD": 39,
+  "Espiritu de Juego": 9.17
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfaf"
+  },
+  "Pos": 2,
+  "Equipo": "Raza",
+  "PJ": 6,
+  "PG": 5,
+  "PP": 1,
+  "GF": 69,
+  "GC": 60,
+  "GD": 9,
+  "Espiritu de Juego": 7.83
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb0"
+  },
+  "Pos": 3,
+  "Equipo": "Revelion",
+  "PJ": 6,
+  "PG": 4,
+  "PP": 2,
+  "GF": 69,
+  "GC": 43,
+  "GD": 26,
+  "Espiritu de Juego": 7.5
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb1"
+  },
+  "Pos": 4,
+  "Equipo": "Vulcanous",
+  "PJ": 6,
+  "PG": 4,
+  "PP": 2,
+  "GF": 62,
+  "GC": 59,
+  "GD": 3,
+  "Espiritu de Juego": 9
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb2"
+  },
+  "Pos": 5,
+  "Equipo": "Urutau Mix",
+  "PJ": 6,
+  "PG": 3,
+  "PP": 3,
+  "GF": 60,
+  "GC": 56,
+  "GD": 4,
+  "Espiritu de Juego": 6.67
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb3"
+  },
+  "Pos": 6,
+  "Equipo": "Rain",
+  "PJ": 5,
+  "PG": 2,
+  "PP": 3,
+  "GF": 51,
+  "GC": 43,
+  "GD": 8,
+  "Espiritu de Juego": 3.6
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb4"
+  },
+  "Pos": 7,
+  "Equipo": "Ciclon",
+  "PJ": 5,
+  "PG": 2,
+  "PP": 3,
+  "GF": 48,
+  "GC": 50,
+  "GD": -2,
+  "Espiritu de Juego": 9.8
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb5"
+  },
+  "Pos": 8,
+  "Equipo": "Black Hawk",
+  "PJ": 6,
+  "PG": 2,
+  "PP": 4,
+  "GF": 48,
+  "GC": 63,
+  "GD": -15,
+  "Espiritu de Juego": 6.67
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb6"
+  },
+  "Pos": 9,
+  "Equipo": "Aloha Koa",
+  "PJ": 5,
+  "PG": 2,
+  "PP": 3,
+  "GF": 32,
+  "GC": 55,
+  "GD": -23,
+  "Espiritu de Juego": 11
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb7"
+  },
+  "Pos": 10,
+  "Equipo": "Inside",
+  "PJ": 5,
+  "PG": 1,
+  "PP": 4,
+  "GF": 38,
+  "GC": 48,
+  "GD": -10,
+  "Espiritu de Juego": 9.2
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb8"
+  },
+  "Pos": 11,
+  "Equipo": "Black Phoenix",
+  "PJ": 5,
+  "PG": 1,
+  "PP": 4,
+  "GF": 39,
+  "GC": 58,
+  "GD": -19,
+  "Espiritu de Juego": 8.8
+},
+{
+  "_id": {
+    "$oid": "66413b4d8b41b3e290ddbfb9"
+  },
+  "Pos": 12,
+  "Equipo": "Lynx",
+  "PJ": 5,
+  "PG": 1,
+  "PP": 4,
+  "GF": 30,
+  "GC": 50,
+  "GD": -20,
+  "Espiritu de Juego": 8
+}]
